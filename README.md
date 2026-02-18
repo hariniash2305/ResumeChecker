@@ -1,6 +1,4 @@
 # ResumeChecker
-Of course. Here’s a clean, professional README version without emojis — ready to paste into GitHub.
-
 ---
 
 # AI-Powered Bulk Resume Screener
@@ -77,4 +75,3 @@ This project assists recruiters in automating bulk resume screening by:
 * Improving candidate-role matching accuracy
 * Providing AI-generated hiring insights
 
-If you’d like, I can also refine this into a more product-focused, research-style, or open-source contributor-friendly version depending on how you want your GitHub profile to look.
