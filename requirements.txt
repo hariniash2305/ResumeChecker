@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+huggingface-hub<0.25.0
