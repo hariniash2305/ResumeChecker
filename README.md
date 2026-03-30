@@ -3,7 +3,7 @@
 
 # AI-Powered Bulk Resume Screener
 
-An intelligent resume screening system that ranks and evaluates multiple candidate resumes against a job description using semantic search and Large Language Models (LLMs).
+An intelligent resume screening system that ranks and evaluates multiple candidate resumes against a job description using semantic search and Large Language Models (LLMs) helping companies hire their perfect candidates.
 
 ---
 
